@@ -1,6 +1,6 @@
-# Blazor-Scheduler-SQL-Server-Databinding
+# How to bind Blazor Scheduler with SQL Server using Entity Framework Core
 
-A quick start project that demonstrates how to consume data from SQL Server using Microsoft SqlClient and bind it to Blazor Scheduler with Entity Framework Core integration.
+A quick start project that demonstrates how to consume data from SQL Server using Microsoft SqlClient and bind it to [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) with Entity Framework Core integration.
 
 ## Project Overview
 
