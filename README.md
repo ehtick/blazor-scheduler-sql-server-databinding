@@ -1,10 +1,6 @@
 # How to bind Blazor Scheduler with SQL Server using Entity Framework Core
 
-A quick start project that demonstrates how to consume data from SQL Server using Microsoft SqlClient and bind it to [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) with Entity Framework Core integration.
-
-## Project Overview
-
-This project showcases the seamless integration of Syncfusion Blazor Scheduler with SQL Server databases using Entity Framework Core. It provides a complete example of CRUD operations for scheduling events stored in SQL Server, with automatic data synchronization and support for scheduling appointments with SQL-backed data persistence.
+This quick start project demonstrates how to consume data from SQL Server using Microsoft SqlClient and integrate it with the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) through Entity Framework Core. It showcases performing CRUD operations on scheduling data with SQL-backed persistence, providing a practical example of seamless data binding, synchronization, and database-driven event management in Blazor applications.
 
 ## Features
 
@@ -26,14 +22,14 @@ This project showcases the seamless integration of Syncfusion Blazor Scheduler w
 
 * Visual Studio 2022
 * SQL Server Data Tools within Visual Studio 2022
-* .NET Core SDK
+* .NET 7.0 or later
 * SQL Server 2016 or later
 
 ## Installation
 
-1. Clone or checkout this project to a location on your local disk.
-2. Open the solution file using Visual Studio 2022.
-3. Restore the NuGet packages by rebuilding the solution.
+1. Checkout this project to your local machine
+2. Open the solution file using Visual Studio 2022
+3. Build the solution to restore the required NuGet packages
 
 ## Database Setup
 
